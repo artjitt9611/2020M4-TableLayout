@@ -1,0 +1,22 @@
+table , th , td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+td{
+    background-color: bisque;
+}
+table{
+    width: 50%;
+}
+
+th{
+    background-color: burlywood;
+    height: 70px;
+}
+.color{
+    background-color: blanchedalmond;
+}
+.colorh{
+   color: cornsilk;
+
+}
